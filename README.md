@@ -25,10 +25,14 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<div>
+    <a href="https://www.loom.com/share/9f99979adfb1474298045ffef6838a69">
+      <p>Project 2 - Wordle  - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/9f99979adfb1474298045ffef6838a69">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/9f99979adfb1474298045ffef6838a69-a2628e0799a2c870-full-play.gif">
+    </a>
+  </div>
 
 ## Notes
 
