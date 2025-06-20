@@ -27,7 +27,6 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 <div>
     <a href="https://www.loom.com/share/9f99979adfb1474298045ffef6838a69">
-      <p>Project 2 - Wordle  - Watch Video</p>
     </a>
     <a href="https://www.loom.com/share/9f99979adfb1474298045ffef6838a69">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/9f99979adfb1474298045ffef6838a69-a2628e0799a2c870-full-play.gif">
